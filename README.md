@@ -22,8 +22,8 @@ class HoussemEddine:
     def __init__(self):
         self.role = "AI/ML Engineer"
         self.specialties = ["Medical Imaging", "Geospatial AI", "Agentic Systems"]
-        self.current_location = "Tunisia 🇹🇳"
-        self.future_location = "Germany 🇩🇪"
+        self.location = "Tunisia 🇹🇳"
+        self.open_to = "International opportunities in Healthcare AI"
         
     def professional_impact(self):
         return {
@@ -259,7 +259,7 @@ Solution: End-to-end ML forecasting
 **🔥 Currently Working On:**
 - 🧠 Advanced 3D brain & whole-body segmentation with MONAI
 - 🤖 Building production-ready agentic AI pipelines
-- 🇩🇪 Preparing for medical AI roles in Germany
+- 🌍 Exploring international opportunities in Medical AI & Healthcare Tech
 - 📚 Contributing to open-source medical imaging tools
 
 ---
@@ -271,13 +271,13 @@ Solution: End-to-end ML forecasting
 
 **Open to opportunities in Medical AI, Geospatial Intelligence, and Agentic Systems**
 
-**📧 Immediate availability for relocation to Germany 🇩🇪**
+**🌐 Available for international roles | 🚀 Ready to relocate**
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/houssemeddineds)
 [![Email](https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:houssemeddineds@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/HoussemDs)
 
 <br>
 
