@@ -102,8 +102,12 @@ Delivered 20+ AI/ML workshops on medical imaging and clinical AI to 200+ enginee
 <tr>
 <td colspan="2">
 
-### 🔬 Research Project | Multi-Modal Brain Safety & Mental Health Assessment | ESPRIT × Industry Partner | Sep–Dec 2025
-Autonomous multimodal pipeline (MRI + video + sensor) — **3.2× processing throughput**, sub-300ms latency, agentic patient interview system
+### 🔬 Research Project — Multi-Modal Brain Safety & Mental Health Assessment
+ESPRIT University × Research Department | Sep–Dec 2025
+
+Autonomous pipeline combining brain MRI, video, and sensor data, 
+Agentic patient interview system generating clinical assessments flagged to a remote clinician
+
 
 </td>
 </tr>
