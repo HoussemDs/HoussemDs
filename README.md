@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houssemeddineds)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssemeddineds@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoussemDs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D6C2A1?style=for-the-badge&logo=google-chrome&logoColor=black)](https://houssemds.github.io)
 
 </div>
 
@@ -143,8 +143,7 @@ Agentic patient interview system generating clinical assessments flagged to a re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/houssemeddineds)
 [![Email](https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:houssemeddineds@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/HoussemDs)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-D6C2A1?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=D6C2A1)](https://houssemds.github.io)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
