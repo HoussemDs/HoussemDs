@@ -28,9 +28,9 @@ I build AI systems where accuracy has real-world stakes: medical diagnoses, manu
 
 ## Publications
 
-| Paper | Venue | Links |
-|-------|-------|-------|
-| **Multi-Agent VLM Pipeline for Brain Tumor Analysis** | KES 2026 (revisions submitted) | [Preprint](https://doi.org/10.17605/OSF.IO/F5QX3) |
+| Paper | Venue | 
+|-------|-------|
+| **Multi-Agent VLM Pipeline for Brain Tumor Analysis** | KES 2026 (revisions submitted) | 
 
 ---
 
